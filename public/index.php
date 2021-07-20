@@ -1,6 +1,6 @@
 <?php
 
-echo 'Bienvenido';
+//echo 'Bienvenido';
 
 if($_GET){
     $controller = $_GET['controller'].'Controller';
